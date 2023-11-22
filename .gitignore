@@ -1,5 +1,6 @@
 .env
-/venv
+/venv*
 /narration
 /frames/*
 !/frames/.gitkeep
+.DS_Store
